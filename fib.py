@@ -8,5 +8,5 @@ def fib(num):
     b=series;
     series=a+b;
     
-num=int(input("Enter the number:"))
+num=int(input("Enter the numbers needed: "))
 fib(num)
